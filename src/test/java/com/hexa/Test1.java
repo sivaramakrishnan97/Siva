@@ -10,5 +10,16 @@ public class Test1 {
 	private void Telugu() {
 		System.out.println("Telugu");
 	}
+	private void One() {
+		System.out.println("ONE");
+	}
+	private void Two() {
+		System.out.println("Two");
+	}
+	private void Three() {
+		System.out.println("Three");
+	}
+	
+	
 
 }
